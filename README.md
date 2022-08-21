@@ -19,7 +19,7 @@
 <a href="https://codeforces.com/profile/noctambulant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noctambulant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/liad hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="liad hossain" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/liad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="liad" height="30" width="40" /></a>
-<a href="https://discord.gg/1584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1584" height="30" width="40" /></a>
+<a href="https://discord.gg/#1584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1584" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
