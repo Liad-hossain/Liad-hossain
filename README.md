@@ -16,7 +16,7 @@
 <a href="https://www.hackerrank.com/liadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="liadhossain" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/noctambulant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noctambulant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/code_180900-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code_180900-8" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/liadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="liadhossain" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/LiadHossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="LiadHossain" height="30" width="40" /></a>
 <a href="https://discord.gg/1584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1584" height="30" width="40" /></a>
 </p>
 
