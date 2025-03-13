@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Liad Hossain</h1>
-<h3 align="center">A passionate competitive programmer from Bangladesh</h3>
+<h3 align="center">A passionate Competitive Programmer and currently working as a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liad-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="liad-hossain" /> </p>
 
